@@ -1,4 +1,4 @@
-# Hi there! I'm Harley
+# Hi there! I'm Harley 👋
 
 ## Experience
 - **Development and Data Analysis Intern**  
