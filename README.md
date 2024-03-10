@@ -16,9 +16,9 @@ Hi there! I'm Harley Zhang, a student at St. Robert Catholic High School.
   - Classified land uses in historical aerial images of Toronto and trained a neural network for automatic classification.
   - Analyzed urbanization impacts based on land use changes.
 ## Skills
-- Languages: JavaScript, HTML/CSS, R, Bash, C/C#
-- Technologies: React.js, Tailwind CSS, Google Earth Engine JavaScript API
-- Tools: Git, Word, Outlook, Excel, PowerPoint, Drive, VS Code
+- **Languages**: JavaScript, HTML/CSS, R, Bash, C/C#
+- **Technologies**: React.js, Tailwind CSS, Google Earth Engine JavaScript API
+- **Tools**: Git, Word, Outlook, Excel, PowerPoint, Drive, VS Code
 
 ## Hobbies
 When I'm not working on projects, I like
