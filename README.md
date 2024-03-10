@@ -19,5 +19,5 @@ Hi there! I'm Harley Zhang, a student at St. Robert Catholic High School.
 - **Technologies**: React.js, Tailwind CSS, Google Earth Engine JavaScript API
 - **Tools**: Git, Word, Outlook, Excel, PowerPoint, Drive, VS Code
 
-- [<img src="https://img.icons8.com/color/48/000000/gmail.png"/> Email](mailto:harleyzhang06@gmail.com)
-- [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> LinkedIn](https://www.linkedin.com/in/harley-zhang-3ba53b2a9)
+[<img src="https://img.icons8.com/color/48/000000/gmail.png"/> Email](mailto:harleyzhang06@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> LinkedIn](https://www.linkedin.com/in/harley-zhang-3ba53b2a9)
