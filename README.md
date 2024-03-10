@@ -27,5 +27,5 @@ When I'm not working on projects, I like
 - Painting
 
 ## Contact
-- [Email](mailto:harleyzhang06@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/harley-zhang-3ba53b2a9)
+- [<img src="https://img.icons8.com/color/48/000000/gmail.png"/> Email](mailto:harleyzhang06@gmail.com)
+- [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> LinkedIn](https://www.linkedin.com/in/harley-zhang-3ba53b2a9)
