@@ -7,7 +7,7 @@ Hi there! I'm Harley Zhang, a student at St. Robert Catholic High School.
 - **Development and Data Analysis Intern**  
   Yale University
   *March 2021 – Present*  
-  - Ran the simulation model [STEPWAT2]([https://ecoforecast.info/](https://github.com/DrylandEcology/STEPWAT2)) and analyzed output using R to evaluate climate change impacts on dryland ecosystems.
+  - Ran the simulation model [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) and analyzed output using R to evaluate climate change impacts on dryland ecosystems.
   - Created and deployed [EcoForest](https://ecoforecast.info/), an app using Google Earth Engine JavaScript API to display simulation climate change data for ranchers and land managers.
 
 - **Research Intern**  
