@@ -15,7 +15,7 @@
 
 ## Skills
 - **Languages**: `JavaScript`, `HTML/CSS`, `R`, `Bash`, `C/C#`
-- **Technologies**: `React.js`, `Tailwind CSS`, `Google Earth Engine JavaScript API`
+- **Technologies**: `React.js`, `Tailwind CSS`, `Google Earth Engine JavaScript API`, `OpenAI API`
 - **Tools**: `Git`, `Word`, `Outlook`, `Excel`, `PowerPoint`, `Drive`, `VS Code`  
 
 ## Contact me
