@@ -1,5 +1,7 @@
 # Hi there! I'm Harley 👋
 
+I'm a first-year student at the University of Waterloo studying Computer Engineering.
+
 ## Experience
 - **Development and Data Analysis Intern**  
   Yale University  
