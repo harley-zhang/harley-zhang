@@ -1,9 +1,12 @@
-# Hi there! I'm Harley 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=F7F7F7&vCenter=true&width=430&height=40&lines=Hey!+I'm+Harley+%F0%9F%91%8B)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=000000&vCenter=true&width=430&height=40&lines=Hey!+I'm+Harley+%F0%9F%91%8B)](https://git.io/typing-svg#gh-light-mode-only)
 
-I'm a first-year student at the University of Waterloo studying Computer Engineering.
+First-year **Computer Engineering** @ **UWaterloo**.
+
+---
 
 ## Experience
-- **Development and Data Analysis Intern**  
+- **Software and Data Analysis Intern**  
   Yale University  
   *March 2021 – Present*  
   - Ran the simulation model [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) using Bash and analyzed output using R to evaluate climate change impacts on dryland ecosystems.
@@ -15,11 +18,29 @@ I'm a first-year student at the University of Waterloo studying Computer Enginee
   - Classified land uses in historical aerial images of Toronto and trained a neural network for automatic classification.
   - Analyzed urbanization impacts based on land use changes.
 
-## Skills
-- **Languages**: `JavaScript`, `HTML/CSS`, `R`, `Bash`, `C/C#`
-- **Technologies**: `React.js`, `Tailwind CSS`, `Google Earth Engine JavaScript API`, `OpenAI API`
-- **Tools**: `Git`, `Word`, `Outlook`, `Excel`, `PowerPoint`, `Drive`, `VS Code`  
+---
 
-## Contact me
-[Email](mailto:harleyzhang06@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/harley-zhang-3ba53b2a9)  
+## Skills and Tools
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+---
+
+## Contact
+<div>
+  <a href="https://www.linkedin.com/in/harley-zhang-3ba53b2a9">
+    <img src="https://img.shields.io/badge/LinkedIn-%230762C8.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:harleyzhang06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%233d3d3d.svg?style=for-the-badge&logo=gmail&logoColor=%23c71610"/>
+  </a>
+</div>
+
