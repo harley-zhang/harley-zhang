@@ -9,13 +9,13 @@ First-year **Computer Engineering** @ **UWaterloo**.
 - **Software and Data Analysis Intern**  
   Yale University  
   *March 2021 – Present*  
-  - Ran the simulation model [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) using Bash and analyzed output using R to evaluate climate change impacts on dryland ecosystems.
-  - Created [EcoForecast](https://ecoforecast.info/), an app using Google Earth Engine JavaScript API, to display simulation climate change data for ranchers and land managers.
+  - Ran the simulation model [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) using **Bash** and analyzed output using **R** to evaluate climate change impacts on dryland ecosystems.
+  - Created [EcoForecast](https://ecoforecast.info/), an app using **Google Earth Engine JavaScript API**, to display simulation climate change data for ranchers and land managers.
 
 - **Research Intern**  
   University of Toronto  
   *May 2023 – December 2023*  
-  - Classified land uses in historical aerial images of Toronto and trained a neural network for automatic classification.
+  - Classified land uses in historical aerial images of Toronto and trained a **neural network** for automatic classification.
   - Analyzed urbanization impacts based on land use changes.
 
 <br />
