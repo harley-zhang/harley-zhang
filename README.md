@@ -33,6 +33,7 @@ First-year **Computer Engineering** @ **UWaterloo**.
 <br />
 
 <br />
+<br />
 
 ## Contact
 <div>
