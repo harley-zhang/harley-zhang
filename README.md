@@ -3,7 +3,7 @@
 
 First-year **Computer Engineering** @ **UWaterloo**.
 
----
+<br />
 
 ## Experience
 - **Software and Data Analysis Intern**  
@@ -18,7 +18,7 @@ First-year **Computer Engineering** @ **UWaterloo**.
   - Classified land uses in historical aerial images of Toronto and trained a neural network for automatic classification.
   - Analyzed urbanization impacts based on land use changes.
 
----
+<br />
 
 ## Skills and Tools
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -32,7 +32,7 @@ First-year **Computer Engineering** @ **UWaterloo**.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
----
+<br />
 
 ## Contact
 <div>
