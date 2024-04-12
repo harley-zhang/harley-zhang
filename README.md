@@ -40,7 +40,7 @@ First-year **Computer Engineering** @ **UWaterloo**.
     <img src="https://img.shields.io/badge/LinkedIn-%230762C8.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:harleyzhang06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%233d3d3d.svg?style=for-the-badge&logo=gmail&logoColor=%23c71610"/>
+    <img src="https://img.shields.io/badge/Email-%233d3d3d.svg?style=for-the-badge&logo=gmail&logoColor=%23c71610"/>
   </a>
 </div>
 
