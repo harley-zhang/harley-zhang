@@ -14,8 +14,8 @@ Computer Engineering @ UWaterloo
 - **Research Assistant**  
   University of Toronto  
   *May 2023 – December 2023*  
-  - Classified land uses in historical aerial images of Toronto and trained a **neural network** for automatic classification.
-  - Analyzed urbanization impacts based on land use changes.
+  - Classified land uses in historical aerial raster image using QGIS of Toronto and trained a **neural network** for automatic classification.
+  - Analyzed the effects of urbanization based on these land use changes.
 
 <br />
 
