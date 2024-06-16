@@ -37,11 +37,5 @@ Computer Engineering @ UWaterloo
 <br />
 
 ## Contact
-<div>
-  <a href="https://www.linkedin.com/in/harley-zhang-3ba53b2a9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230762C8.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> &nbsp
-  <a href="mailto:harleyzhang06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%233d3d3d.svg?style=for-the-badge&logo=gmail&logoColor=%23c71610"/>
-  </a>
-</div>
+- harleyzhang06@gmail.com
+- [LinkedIn] (https://www.linkedin.com/in/harley-zhang-3ba53b2a9)
