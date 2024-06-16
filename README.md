@@ -1,23 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=F7F7F7&vCenter=true&width=430&height=40&lines=Hey!+I'm+Harley+%F0%9F%91%8B)](https://git.io/typing-svg#gh-dark-mode-only)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=000000&vCenter=true&width=430&height=40&lines=Hey!+I'm+Harley+%F0%9F%91%8B)](https://git.io/typing-svg#gh-light-mode-only)
 
-Computer Engineering @ UWaterloo
-<br />
+Computer Engineering @ **UWaterloo**
+<br/>
 
 ## Experience
 - **Software and Data Analysis Intern**  
   Yale University  
-  *March 2021 – Present*  
-  - Ran the simulation model [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) using **Bash** and analyzed output using **R** to evaluate climate change impacts on dryland ecosystems.
-  - Created [EcoForecast](https://ecoforecast.info/), an app using **Google Earth Engine JavaScript API**, to display simulation climate change data for ranchers and land managers.
+  *Mar 2021 – Present*
+  - Ran the [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) simulation model using **Bash** and summarized output using **R** to evaluate climate change in drylands.
+  - Created [EcoForecast](https://ecoforecast.info/) using **Google Earth Engine JavaScript API** to present simulation data for ranchers and land managers.
 
 - **Research Assistant**  
   University of Toronto  
-  *May 2023 – December 2023*  
-  - Classified land uses in historical aerial raster image of Toronto using QGIS Lima and user data to train a **neural network** for automatic classification.
-  - Analyzed the effects of urbanization based on these land use changes.
+  *May 2023 – Dec 2023*  
+  - Classified land uses in aerial raster imagery of Toronto in QGIS and used data to train **neural network** for automatic classification.
 
-<br />
+<br/>
 
 ## Skills and Tools
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -31,10 +30,10 @@ Computer Engineering @ UWaterloo
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-<br />
+<br/>
 
-<br />
-<br />
+<br/>
+<br/>
 
 ## Contact
 - harleyzhang06@gmail.com
