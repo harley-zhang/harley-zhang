@@ -38,4 +38,4 @@ Computer Engineering @ UWaterloo
 
 ## Contact
 - harleyzhang06@gmail.com
-- [LinkedIn] (https://www.linkedin.com/in/harley-zhang-3ba53b2a9)
+- [LinkedIn](https://www.linkedin.com/in/harley-zhang-3ba53b2a9)
