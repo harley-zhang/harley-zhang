@@ -8,7 +8,7 @@ Computer Engineering @ **UWaterloo**
 ## Experience
 - **Software and Data Analysis Intern**  
   Yale University  
-  *Mar 2021 – Present*
+  *Mar 2021 – Jun 2024*
   - Ran the [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) simulation model using **Bash** and summarized output using **R** to evaluate climate change in drylands.
   - Created [EcoForecast](https://ecoforecast.info/) using **Google Earth Engine JavaScript API** to present simulation data for ranchers and land managers.
 
