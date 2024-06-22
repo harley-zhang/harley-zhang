@@ -4,18 +4,15 @@
 
 Computer Engineering @ **UWaterloo**
 <br/>
+<br/>
 
 ## Experience
-- **Software and Data Analysis Intern**  
-  Yale University  
-  *Mar 2021 – Jun 2024*
-  - Ran the [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) simulation model using **Bash** and summarized output using **R** to evaluate climate change in drylands.
-  - Created [EcoForecast](https://ecoforecast.info/) using **Google Earth Engine JavaScript API** to present simulation data for ranchers and land managers.
+**Software and Data Analysis** &nbsp;| &nbsp;[Yale University](https://environment.yale.edu/)  
+- Ran [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) simulation model using **Bash** and summarized data using **R**.
+- Created [EcoForecast](https://ecoforecast.info/) using **Google Earth Engine JavaScript API**.
 
-- **Research Assistant**  
-  University of Toronto  
-  *May 2023 – Dec 2023*  
-  - Classified land uses in aerial raster imagery of Toronto in QGIS and used data to train **neural network** for automatic classification.
+**Research Assistant** &nbsp;| &nbsp; [University of Toronto](https://www.utsc.utoronto.ca/biosci/)
+- Sorted land uses in spatial imagery using QGIS and trained **neural network** for automatic classification.
 
 <br/>
 
@@ -39,3 +36,4 @@ Computer Engineering @ **UWaterloo**
 ## Contact
 - harleyzhang06@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/harley-zhang-3ba53b2a9)
+
