@@ -6,34 +6,30 @@ Computer Engineering @ **UWaterloo**
 <br/>
 <br/>
 
-## Experience
-**Software and Data Analysis** &nbsp;| &nbsp;[Yale University](https://environment.yale.edu/)  
-- Ran [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) simulation model using **Bash** and summarized data using **R**.
-- Created [EcoForecast](https://ecoforecast.info/) using **Google Earth Engine JavaScript API**.
+### Experience
+- **Software and Data Analysis** &nbsp;| &nbsp;[Yale University](https://environment.yale.edu/)  
+  - Ran [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) simulation model using **Bash** and summarized data using **R**.
+  - Created [EcoForecast](https://ecoforecast.info/) using **Google Earth Engine JavaScript API**.
 
-**Research Assistant** &nbsp;| &nbsp; [University of Toronto](https://www.utsc.utoronto.ca/biosci/)
-- Sorted land uses in spatial imagery using QGIS and trained **neural network** for automatic classification.
+- **Research Assistant** &nbsp;| &nbsp; [University of Toronto](https://www.utsc.utoronto.ca/biosci/)
+  - Sorted land uses in spatial imagery using QGIS and trained **neural network** for automatic classification.
 
 <br/>
 
-## Skills and Tools
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-<br/>
+### Skills and Tools
+<img height="35px" src="https://skillicons.dev/icons?i=javascript,react,c,cpp,cs,html,css,tailwind,git,bash,r,python" />
 
 <br/>
 <br/>
+<br/>
 
-## Contact
-- harleyzhang06@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/harley-zhang-3ba53b2a9)
 
+<a href="mailto:harleyzhang06@gmail.com" target="_blank">
+  <img align="left" alt="Email" width="17px" style="padding-right:30px;" src="https://img.icons8.com/?size=100&id=86875&format=png&color=ffffff" />
+</a>
+<a href="https://www.linkedin.com/in/harley-zhang-3ba53b2a9" target="_blank">
+  <img align="left" alt="LinkedIn" width="17px" style="padding-right:30px;" src="https://img.icons8.com/?size=100&id=8808&format=png&color=ffffff" />
+</a>
+<a href="https://x.com/HarleyZhang06" target="_blank">
+  <img align="left" alt="X" width="16px" style="padding-right:30px;" src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=ffffff" />
+</a>
