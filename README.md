@@ -1,12 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=F7F7F7&vCenter=true&width=430&height=40&lines=Hey!+I'm+Harley+%F0%9F%91%8B)](https://git.io/typing-svg#gh-dark-mode-only)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=000000&vCenter=true&width=430&height=40&lines=Hey!+I'm+Harley+%F0%9F%91%8B)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=F7F7F7&vCenter=true&width=430&height=40&lines=Harley+Zhang)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=000000&vCenter=true&width=430&height=40&lines=Harley+Zhang)](https://git.io/typing-svg#gh-light-mode-only)
 
+<br/>
 
 Computer Engineering @ **UWaterloo**
-<br/>
+
 <br/>
 
-### Experience
+## Experience
 - **Software and Data Analysis** &nbsp;| &nbsp;[Yale University](https://environment.yale.edu/)  
   - Ran [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) simulation model using **Bash** and summarized data using **R**.
   - Created [EcoForecast](https://ecoforecast.info/) using **Google Earth Engine JavaScript API**.
@@ -15,11 +16,10 @@ Computer Engineering @ **UWaterloo**
   - Sorted land uses in spatial imagery using QGIS and trained **neural network** for automatic classification.
 
 <br/>
-
-### Skills and Tools
-<img height="35px" src="https://skillicons.dev/icons?i=javascript,react,c,cpp,cs,html,css,tailwind,git,bash,r,python" />
-
 <br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark_dimmed)
+
 <br/>
 <br/>
 
