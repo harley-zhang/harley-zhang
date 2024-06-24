@@ -4,11 +4,11 @@
 Computer Engineering @ **UWaterloo**
 
 ## Experience
-- [**Yale University**](https://environment.yale.edu/) &nbsp; | &nbsp; Software and Data Analysis
+- **Yale University** &nbsp; | &nbsp; Software Engineering
   - Ran [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) simulation model using **Bash** and summarized data using **R**.
   - Created [EcoForecast](https://ecoforecast.info/) using **Google Earth Engine JavaScript API**.
 
-- [**University of Toronto**](https://www.utsc.utoronto.ca/biosci/) &nbsp;| &nbsp; Research Assistant
+- **University of Toronto** &nbsp; | &nbsp; Research Assistant
   - Sorted land uses in spatial imagery using QGIS and trained **neural network** for automatic classification.
 
 <br/>
