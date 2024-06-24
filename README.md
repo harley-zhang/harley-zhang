@@ -1,11 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=F7F7F7&vCenter=true&width=430&height=40&lines=Harley+Zhang)](https://git.io/typing-svg#gh-dark-mode-only)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=000000&vCenter=true&width=430&height=40&lines=Harley+Zhang)](https://git.io/typing-svg#gh-light-mode-only)
 
-<br/>
-
 Computer Engineering @ **UWaterloo**
-
-<br/>
 
 ## Experience
 - [Yale University](https://environment.yale.edu/) &nbsp; | &nbsp; **Software and Data Analysis**  
@@ -16,13 +12,10 @@ Computer Engineering @ **UWaterloo**
   - Sorted land uses in spatial imagery using QGIS and trained **neural network** for automatic classification.
 
 <br/>
-<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark_dimmed)
 
 <br/>
-<br/>
-
 
 <a href="mailto:h333zhan@uwaterloo.ca" target="_blank">
   <img align="left" alt="Email" width="17px" style="padding-right:30px;" src="https://img.icons8.com/?size=100&id=86875&format=png&color=ffffff" />
