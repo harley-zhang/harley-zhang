@@ -4,7 +4,7 @@
 Computer Engineering @ **UWaterloo**
 
 ## Experience
-- **Yale University** &nbsp; | &nbsp; Software Engineering
+- **Yale University** &nbsp; | &nbsp; Software Engineering Intern
   - Ran [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) simulation model using **Bash** and summarized data using **R**.
   - Created [EcoForecast](https://ecoforecast.info/) using **Google Earth Engine JavaScript API**.
 
