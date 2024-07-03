@@ -18,11 +18,11 @@ Computer Engineering @ **UWaterloo**
 <br/>
 
 <a href="https://www.linkedin.com/in/harley-zhang" target="_blank">
-  <img align="left" alt="LinkedIn" width="17px" style="padding-right:30px;" src="https://img.icons8.com/?size=100&id=8808&format=png&color=ffffff" />
+  <img align="left" alt="LinkedIn" width="17px" style="padding-right:40px;" src="https://img.icons8.com/?size=100&id=8808&format=png&color=ffffff" />
 </a>
 <a href="https://x.com/HarleyZhang06" target="_blank">
-  <img align="left" alt="X" width="16px" style="padding-right:30px;" src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=ffffff" />
+  <img align="left" alt="X" width="16px" style="padding-right:40px;" src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=ffffff" />
 </a>
 <a href="mailto:h333zhan@uwaterloo.ca" target="_blank">
-  <img align="left" alt="Email" width="17px" style="padding-right:30px;" src="https://img.icons8.com/?size=100&id=86875&format=png&color=ffffff" />
+  <img align="left" alt="Email" width="17px" style="padding-right:40px;" src="https://img.icons8.com/?size=100&id=86875&format=png&color=ffffff" />
 </a>
