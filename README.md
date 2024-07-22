@@ -4,11 +4,11 @@
 Computer Engineering @ **UWaterloo**
 
 ## Experience
-- **Lauenroth Lab**, Yale University &nbsp; | &nbsp; *Software Engineering Intern*
+- **Software Engineering Intern** &nbsp; | &nbsp; Lauenroth Lab (Yale)
   - Developed [EcoForecast](https://ecoforecast.info/) from start to finish using **Google Earth Engine JavaScript API**.
   - Ran [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) simulation model using **Bash** and summarized data using **R**.
 
-- **CUBES Lab**, University of Toronto &nbsp; | &nbsp; *Research Assistant*
+- **Research Assistant** &nbsp; | &nbsp; CUBES Lab (UofT)
   - Sorted land uses in spatial imagery using QGIS and trained **neural network** for automatic classification.
 
 <br/>
