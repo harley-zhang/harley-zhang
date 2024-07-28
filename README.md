@@ -4,11 +4,11 @@
 Computer Engineering @ **UWaterloo**
 
 ## Experience
-- **Software Engineering Intern** &nbsp; | &nbsp; Lauenroth Lab (Yale)
+- **Software Engineering Intern** &nbsp; | &nbsp; Yale University
   - Developed [EcoForecast](https://ecoforecast.info/) from start to finish using **Google Earth Engine JavaScript API**.
   - Ran [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) simulation model using **Bash** and summarized data using **R**.
 
-- **Research Assistant** &nbsp; | &nbsp; CUBES Lab (UofT)
+- **Research Assistant** &nbsp; | &nbsp; University of Toronto
   - Sorted land uses in spatial imagery using QGIS and trained **neural network** for automatic classification.
 
 <br/>
@@ -17,12 +17,12 @@ Computer Engineering @ **UWaterloo**
 
 <br/>
 
+<a href="mailto:h333zhan@uwaterloo.ca" target="_blank">
+  <img align="left" alt="Email" width="17px" src="https://img.icons8.com/?size=100&id=86875&format=png&color=ffffff" />
+</a>
 <a href="https://www.linkedin.com/in/harley-zhang">
   <img align="left" alt="LinkedIn" width="17px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=ffffff" />
 </a>
 <a href="https://x.com/HarleyZhang06" target="_blank">
   <img align="left" alt="X" width="16px" src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=ffffff" />
-</a>
-<a href="mailto:h333zhan@uwaterloo.ca" target="_blank">
-  <img align="left" alt="Email" width="17px" src="https://img.icons8.com/?size=100&id=86875&format=png&color=ffffff" />
 </a>
