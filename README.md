@@ -5,11 +5,12 @@ Computer Engineering @ **UWaterloo**
 
 ## Experience
 - **Software Engineering Intern** &nbsp; | &nbsp; Yale University
-  - Developed [EcoForecast](https://ecoforecast.info/) from start to finish using **Google Earth Engine JavaScript API**.
-  - Ran [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2) simulation model using **Bash** and summarized data using **R**.
+  - Simulated 100 years of plant biomass in a Colorado conservation area using [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2).
+  - Summarized next-century climate and plant simulations and 2022-2023 field survey stats using R.
 
 - **Research Assistant** &nbsp; | &nbsp; University of Toronto
-  - Sorted land uses in spatial imagery using QGIS and trained **neural network** for automatic classification.
+  - Trained an object detection model to classify land use with 80 years of raster imagery in [QGIS](https://www.qgis.org/).
+  - Analyzed Toronto's urbanization by comparing land use changes from intervals in the past century.
 
 <br/>
 
