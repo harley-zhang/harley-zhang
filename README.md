@@ -3,6 +3,10 @@
 Computer Engineering @ **UWaterloo**
 
 ## Experience
+- **Software Developer** &nbsp; | &nbsp; Cornell Tech
+  - Parsed and filtered US Census ZIP Code Tabulation Area shapefile data using Python.
+  - Developed app for local news to view coverage differences by neighborhood using React and Uber's [deck.gl](https://deck.gl/).
+
 - **Software Engineering Intern** &nbsp; | &nbsp; Yale University
   - Simulated 100 years of plant biomass in a Colorado conservation area using [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2).
   - Summarized next-century climate and plant simulations and 2022-2023 field survey stats using R.
