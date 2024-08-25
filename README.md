@@ -27,7 +27,7 @@ Computer Engineering @ **UWaterloo**
 <a href="https://www.linkedin.com/in/harley-zhang">
   <img align="left" alt="LinkedIn" width="17px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=ffffff" />
 </a>
-<a href="https://harley-zhang.vercel.app/" target="_blank">
+<a href="https://harleyzhang.info/" target="_blank">
   <img align="left" alt="Website" width="16px" src="https://img.icons8.com/ios/50/FFFFFF/globe--v1.png" />
 </a>
 <a href="https://x.com/HarleyZhang06" target="_blank">
