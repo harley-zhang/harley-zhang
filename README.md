@@ -1,21 +1,19 @@
-# Harley Zhang
+## Harley Zhang
 
-Computer Engineering @ **UWaterloo**
-
-## Experience
-- **Software Developer** &nbsp; | &nbsp; Cornell Tech
-  - Parsed and filtered US Census ZIP Code Tabulation Area shapefile data using Python.
-  - Developed app for media companies to analyze coverage differences by neighborhood using React and Uber's [deck.gl](https://deck.gl/).
-
-- **Software Engineering Intern** &nbsp; | &nbsp; Yale University
-  - Simulated 100 years of plant biomass in a Colorado conservation area using [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2).
-  - Summarized next-century climate and plant simulations and 2022-2023 field survey stats using R.
-
-- **Research Assistant** &nbsp; | &nbsp; University of Toronto
-  - Trained an object detection model to classify land use with 80 years of raster imagery in [QGIS](https://www.qgis.org/).
-  - Analyzed Toronto's urbanization by comparing land use changes from intervals in the past century.
-
+I'm a first-year **Computer Engineering student** at **University of Waterloo**.
 <br/>
+
+**Experience:**
+
+- Software Developer @ **[Cornell Tech](https://s.tech.cornell.edu/)** &nbsp; | &nbsp; Data parsing and web development to analyze news coverage
+- Software Engineer @ **[Yale University](https://www.researchgate.net/lab/William-K-Lauenroth-Lab)** &nbsp; | &nbsp; Climate simulation models and web app for environmental data
+- Research Assistant @ **[University of Toronto](https://cubes-labs.com/)** &nbsp; | &nbsp; Image recognition model for ecological land use sorting
+<br/>
+
+**Skills:**
+
+- Languages: `JavaScript/TypeScript` , `Python` , `C/C++` , `R` , `Bash` , `HTML/CSS`
+- Technologies: `React` , `Git` , `Google Earth Engine API` , `OpenAI API` , `kepler.gl` , `deck.gl`
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark_dimmed)
 
