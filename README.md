@@ -19,7 +19,7 @@ I'm a first-year **Computer Engineering student** at **University of Waterloo**.
 
 <br/>
 
-<a href="mailto:h333zhan@uwaterloo.ca" target="_blank">
+<a href="mailto:harley.zhang@uwaterloo.ca" target="_blank">
   <img align="left" alt="Email" width="17px" src="https://img.icons8.com/?size=100&id=86875&format=png&color=ffffff" />
 </a>
 <a href="https://www.linkedin.com/in/harley-zhang">
