@@ -1,15 +1,15 @@
 ## Harley Zhang
 
-I'm a first-year **Computer Engineering student** at **University of Waterloo**.
+I'm a first-year **Computer Engineering** student at **University of Waterloo**.
 <br/>
 
-**Experience:**
+###### *Experience:*
 
 - Software Developer @ **[Cornell Tech](https://s.tech.cornell.edu/)** &nbsp; | &nbsp; Data parsing and web development to analyze news coverage
 - Software Engineer @ **[Yale University](https://www.researchgate.net/lab/William-K-Lauenroth-Lab)** &nbsp; | &nbsp; Climate simulation models and web app for environmental data
 - Research Assistant @ **[University of Toronto](https://cubes-labs.com/)** &nbsp; | &nbsp; Image recognition model for ecological land use sorting
 
-**Skills:**
+###### *Skills:*
 
 - Languages: `JavaScript/TypeScript` , `Python` , `C/C++` , `R` , `Bash` , `HTML/CSS`
 - Technologies: `React` , `Git` , `Google Earth Engine API` , `OpenAI API` , `kepler.gl` , `deck.gl`
