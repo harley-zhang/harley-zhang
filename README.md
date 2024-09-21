@@ -14,7 +14,7 @@ I'm a first-year **Computer Engineering** student at **University of Waterloo**.
 - Languages: `JavaScript/TypeScript` , `Python` , `C/C++` , `R` , `Bash` , `HTML/CSS`
 - Technologies: `React` , `Git` , `Google Earth Engine API` , `OpenAI API` , `kepler.gl` , `deck.gl`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harley-zhang&layout=compact&theme=github_dark_dimmed)
 
 <br/>
 
