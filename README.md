@@ -1,12 +1,12 @@
 ## Harley Zhang
 
-I'm a first-year **Software Engineering** student at **University of Waterloo**.
+I'm a first-year **Software Engineering** student at the **University of Waterloo**.
 <br/>
 
 ###### *Experience:*
-
+- Incoming Engineer @ **[Shopify](https://shopify.com/)**
 - Software Developer @ **[Cornell Tech](https://s.tech.cornell.edu/)** &nbsp; | &nbsp; Data parsing and web development to analyze news coverage
-- Software Engineer @ **[Yale University](https://www.researchgate.net/lab/William-K-Lauenroth-Lab)** &nbsp; | &nbsp; Climate simulation models and web app for environmental data
+- Software Engineer @ **[Yale University](https://www.yale.edu/)** &nbsp; | &nbsp; Climate simulation models and web app for environmental data
 - Research Assistant @ **[University of Toronto](https://cubes-labs.com/)** &nbsp; | &nbsp; Image recognition model for ecological land use sorting
 
 ###### *Skills:*
