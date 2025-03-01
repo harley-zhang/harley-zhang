@@ -4,34 +4,22 @@ I'm a first-year **Software Engineering** student at the **University of Waterlo
 <br/>
 
 ###### *Experience:*
-- Incoming Engineer @ **[Shopify](https://shopify.com/)**
-- Software Developer @ **[Cornell Tech](https://s.tech.cornell.edu/)** &nbsp; | &nbsp; Data parsing and web development to analyze news coverage
-- Software Engineer @ **[Yale University](https://www.yale.edu/)** &nbsp; | &nbsp; Climate simulation models and web app for environmental data
-- Research Assistant @ **[University of Toronto](https://cubes-labs.com/)** &nbsp; | &nbsp; Image recognition model for ecological land use sorting
+- Incoming Software Engineer @ **[Shopify](https://shopify.com/)**
+- Software Development Research Assistant @ **[Cornell Tech](https://s.tech.cornell.edu/)** &nbsp; | &nbsp; Data parsing and web development to analyze news coverage
+- Software & Data Research Assistant @ **[Yale University](https://www.yale.edu/)** &nbsp; | &nbsp; Climate simulation models and web app for environmental data
+- ML Research Assistant @ **[University of Toronto](https://cubes-labs.com/)** &nbsp; | &nbsp; Image recognition model for ecological land use sorting
 
-###### *Skills:*
-
-- Languages: `JavaScript/TypeScript` , `Python` , `C/C++/C#` , `R` , `Bash` , `HTML/CSS`
-- Technologies: `React` , `Git` , `Google Earth Engine API` , `OpenAI API` , `kepler.gl` , `deck.gl`
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harley-zhang&layout=compact&theme=github_dark_dimmed)
-
+###### *Languages:*
+```
+JavaScript, Python, C/C++, R, Bash, MySQL, SQLite
+```
+###### *Technologies:*
+```
+Git, Google Cloud, React, Node.js, Linux, Unix, HTML/CSS
+```
 <br/>
 
-<a href="mailto:harley.zhang@uwaterloo.ca" target="_blank">
-  <img align="left" alt="Email" width="17px" src="https://img.icons8.com/?size=100&id=86875&format=png&color=ffffff" />
-</a>
-<a href="https://www.linkedin.com/in/harley-zhang">
-  <img align="left" alt="LinkedIn" width="17px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=ffffff" />
-</a>
-<a href="https://harleyzhang.info/" target="_blank">
-  <img align="left" alt="Website" width="16px" src="https://img.icons8.com/ios/50/FFFFFF/globe--v1.png" />
-</a>
-<!--
-<a href="https://x.com/HarleyZhang06" target="_blank">
-  <img align="left" alt="X" width="16px" src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=ffffff" />
-</a>
-<a href="https://www.youtube.com/@harleyzhang3092" target="_blank">
-  <img align="left" alt="YouTube" width="18px" src="https://img.icons8.com/?size=100&id=37326&format=png&color=ffffff" />
-</a>
--->
+[Book a 15 Min Chat &#8599;](https://calendly.com/harleyzhang06/15-min-chat) &nbsp;&nbsp;&nbsp; 
+[Email &#8599;](mailto:harley.zhang@uwaterloo.ca) &nbsp;&nbsp;&nbsp;
+[LinkedIn &#8599;](https://www.linkedin.com/in/harley-zhang) &nbsp;&nbsp;&nbsp;
+[Website &#8599;](https://harleyzhang.info/)
