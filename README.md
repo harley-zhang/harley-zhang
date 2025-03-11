@@ -4,7 +4,6 @@ I'm a first-year **Software Engineering** student at the **University of Waterlo
 <br/>
 
 ###### *Experience:*
-- Incoming Software Engineer @ **[Shopify](https://shopify.com/)**
 - Software Development Research Assistant @ **[Cornell Tech](https://s.tech.cornell.edu/)** &nbsp; | &nbsp; Data parsing and web development to analyze news coverage
 - Software & Data Research Assistant @ **[Yale University](https://www.yale.edu/)** &nbsp; | &nbsp; Climate simulation models and web app for environmental data
 - ML Research Assistant @ **[University of Toronto](https://cubes-labs.com/)** &nbsp; | &nbsp; Image recognition model for ecological land use sorting
