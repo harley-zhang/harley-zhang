@@ -10,7 +10,7 @@ I'm a first-year **Software Engineering** student at the **University of Waterlo
 
 ###### *Languages:*
 ```
-JavaScript, Python, C/C++, R, Bash, MySQL, SQLite
+JavaScript/TypeScript, Python, C/C++, R, Bash, MySQL, SQLite
 ```
 ###### *Technologies:*
 ```
