@@ -1,6 +1,6 @@
 ## Harley Zhang
 
-I'm a first-year **Software Engineering** student at the **University of Waterloo**.
+I'm a **Software Engineering** student at the **University of Waterloo**.
 <br/>
 
 ###### *Previously...*
