@@ -18,7 +18,7 @@ Git, Google Cloud, React, Node.js, Linux, Unix, HTML/CSS
 ```
 <br/>
 
-[Book a 15 Min Chat &#8599;](https://calendly.com/harleyzhang06/15-min-chat) &nbsp;&nbsp;&nbsp; 
+[Setup a 15 Min Chat &#8599;](https://calendly.com/harleyzhang06/15-min-chat) &nbsp;&nbsp;&nbsp; 
 [Email &#8599;](mailto:harley.zhang@uwaterloo.ca) &nbsp;&nbsp;&nbsp;
 [LinkedIn &#8599;](https://www.linkedin.com/in/harley-zhang) &nbsp;&nbsp;&nbsp;
 [Website &#8599;](https://harleyzhang.info/)
