@@ -14,7 +14,7 @@ JavaScript/TypeScript, Python, C/C++, R, Bash, MySQL, SQLite
 ```
 ###### *Technologies:*
 ```
-Git, Google Cloud, React, Node.js, Linux, Unix, HTML/CSS
+React, Next.js, Git, Google Cloud, Cohere, MongoDB, Node.js, HTML/CSS
 ```
 <br/>
 
