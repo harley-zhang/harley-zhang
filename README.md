@@ -3,16 +3,16 @@
 I'm a **Software Engineering** student at the **University of Waterloo**.
 <br/>
 
-###### *Previously...*
+###### Previously...
 - Software Development Research Assistant @ **[Cornell Tech](https://s.tech.cornell.edu/)**
 - Software & Data Research Assistant @ **[Yale University](https://www.yale.edu/)**
 - Machine Learning Research Assistant @ **[University of Toronto](https://cubes-labs.com/)**
 
-###### *Languages:*
+###### Languages:
 ```
 JavaScript/TypeScript, Python, C/C++, R, Bash, MySQL, SQLite
 ```
-###### *Technologies:*
+###### Technologies:
 ```
 React, Next.js, Git, Google Cloud, Cohere, MongoDB, Node.js, HTML/CSS
 ```
