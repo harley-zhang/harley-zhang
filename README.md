@@ -12,11 +12,7 @@ I'm a **Software Engineering** student at the **University of Waterloo**.
 
 ###### Languages:
 ```
-JavaScript/TypeScript, Python, C/C++, R, Bash, MySQL, SQLite
-```
-###### Technologies:
-```
-React, Next.js, Git, Google Cloud, Cohere, MongoDB, Node.js, HTML/CSS
+JavaScript/TypeScript, Python, C/C++, React, R
 ```
 <br/>
 
