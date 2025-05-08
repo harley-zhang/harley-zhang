@@ -10,7 +10,7 @@ I'm a **Software Engineering** student at the **University of Waterloo**.
 - Software & Data Research Assistant @ **[Yale University](https://www.yale.edu/)**
 - Machine Learning Research Assistant @ **[University of Toronto](https://cubes-labs.com/)**
 
-###### Languages:
+###### Technologies:
 ```
 JavaScript/TypeScript, Python, C/C++, React, R
 ```
