@@ -5,7 +5,7 @@ I'm a **Software Engineering** student at the **University of Waterloo**.
 
 ###### Previously...
 - Software Engineering Intern @ **[Shopify](https://www.shopify.com/)**
-- Product Intern @ **[Dexterity (YC W25)](https://www.joindex.com/)**
+- Product @ **[Dexterity (YC W25)](https://www.joindex.com/)**
 - Software Development Research Assistant @ **[Cornell Tech](https://s.tech.cornell.edu/)**
 - Software & Data Research Assistant @ **[Yale University](https://www.yale.edu/)**
 - Machine Learning Research Assistant @ **[University of Toronto](https://cubes-labs.com/)**
